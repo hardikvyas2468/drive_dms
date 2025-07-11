@@ -1,0 +1,7 @@
+[pre_model_sync]
+dms.patches.team_restructure #8
+dms.patches.update_roles
+
+[post_model_sync]
+dms.patches.folder_size #3
+dms.patches.settings
